@@ -1,1 +1,7 @@
+#pastas para serem ignorada precisam da "/" para sinalizar
+#"*" representa todos os arquivos e "!" representa excluir o arquivo dentre os outros
+#a serem ignorados
 me_ignore.txt
+*.py
+!arquivo_3.py
+pasta_teste/
